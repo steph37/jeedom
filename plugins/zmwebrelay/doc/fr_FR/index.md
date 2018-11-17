@@ -9,7 +9,7 @@ Une carte possède :
 8 relais de puissance avec retour d'état
 1 prise Ethernet RJ45
 
-##Fonctionnalité du plugin :
+## Les fonctionnalités du plugin :
 
 Le plugin ZMWEBRELAY pour Jeedom permet de :
 Récupérer les états des entrées numériques ainsi que des relais.
